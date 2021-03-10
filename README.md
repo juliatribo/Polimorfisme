@@ -1,7 +1,7 @@
 # Session4
 
-#ClassesManager
-##Sum areas, Sort
+# ClassesManager
+## Sum areas, Sort
 
-#Figures - TriangleRectangle, Rectangle, Square, Circle
-##Compare
+# Figures - TriangleRectangle, Rectangle, Square, Circle
+## Compare
